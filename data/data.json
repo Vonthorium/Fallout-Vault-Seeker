@@ -1,0 +1,812 @@
+[
+  {
+    "nome": "Vault 3",
+    "anoabertura": "Indisponível",
+    "localizacao": "Las Vegas, Nevada (New Vegas, Mojave Wasteland)",
+    "faccao": "Fiends",
+    "objetivo": "Utilizado principalmente como abrigo para a população civil",
+    "descricao": "O valut foi pensado como um dos dezessete Cofres controle, então não recebeu nenhum parâmetro para os experimentos sociais que notoriamente afligiam a maioria dos outros Cofres. Por mais de cem anos, os habitantes de Vault viveram em isolamento, até que um vazamento em seu suprimento de água os levou a buscar contato comercial. Contudo, acabaram sendo massacrados, e o local caiu nas mãos dos Fiends.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_3"
+  },
+  {
+    "nome": "Vault 4",
+    "anoabertura": "Indisponível",
+    "localizacao": "California",
+    "faccao": "Vault Dwellers",
+    "objetivo": "Experimento genético com cientistas no comando.",
+    "descricao": "Publicamente conhecido como um cofre governado por cientistas, ele secretamente usou forasteiros como cobaias de experimentação genética. Os indivíduos eventualmente se libertaram e mataram os cientistas, mas continuam a habitar o Cofre.",
+    "titulo": "Fallout (série de TV)",
+    "link": "https://fallout.fandom.com/wiki/Vault_4"
+  },
+  {
+    "nome": "Vault 8",
+    "anoabertura": "2087",
+    "localizacao": "Northern California",
+    "faccao": "Vault City",
+    "objetivo": "Recolonizar a superfície após 10 anos.",
+    "descricao": "Um cofre de controle destinado a abrir e recolonizar a superfície após 10 anos. Foi um sucesso e formou a base para a Vault City.",
+    "titulo": "Fallout 2",
+    "link": "https://fallout.fandom.com/wiki/Vault_8"
+  },
+  {
+    "nome": "Vault 11",
+    "anoabertura": "Indisponível",
+    "localizacao": "Mojave Wasteland",
+    "faccao": "N/A",
+    "objetivo": "Experimento social sobre sacrifício.",
+    "descricao": "Os habitantes foram forçados a sacrificar uma pessoa anualmente, ou todo o cofre seria morto. Isso era uma mentira.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_11"
+  },
+  {
+    "nome": "Vault 12",
+    "anoabertura": "Indisponível",
+    "localizacao": "Bakersfield, California",
+    "faccao": "Ghouls",
+    "objetivo": "Estudar os efeitos da radiação.",
+    "descricao": "A porta do cofre foi deliberadamente projetada para não fechar corretamente, expondo os habitantes à radiação e criando a população de ghouls de Necropolis.",
+    "titulo": "Fallout",
+    "link": "https://fallout.fandom.com/wiki/Vault_12"
+  },
+  {
+    "nome": "Vault 15",
+    "anoabertura": "Indisponível",
+    "localizacao": "Southern California",
+    "faccao": "Khans, Vipers, Jackals, Shady Sands",
+    "objetivo": "Forçar a convivência de ideologias diversas.",
+    "descricao": "Projetado para abrigar pessoas com ideologias radicais e diversas para observar suas interações ao longo de 50 anos. Os habitantes acabaram se dividindo em facções em guerra.",
+    "titulo": "Fallout, Fallout 2",
+    "link": "https://fallout.fandom.com/wiki/Vault_15"
+  },
+  {
+    "nome": "Vault 7",
+    "anoabertura": "2087",
+    "localizacao": "Virginia Ocidental, Appalachia",
+    "faccao": "Maniacs of the Wasteland",
+    "objetivo": "Estudo do impacto da privação sensorial inicial, seguida pela introdução súbita de mídia pré-guerra altamente manipulativa (propaganda e entretenimento extremo).",
+    "descricao": "Os moradores passaram 20 anos em isolamento quase total antes de serem expostos a 'pacotes de mídia'. O resultado foi a formação de facções fanáticas baseadas nos temas da mídia, resultando em guerra civil interna e o colapso dos sistemas de suporte vital. Os sobreviventes emergiram como maníacos delirantes.",
+    "titulo": "Fallout 76",
+    "link": "https://fallout.fandom.com/wiki/Vault_7"
+  },
+  {
+    "nome": "Vault 13",
+    "anoabertura": "2097",
+    "localizacao": "Norte da Califórnia",
+    "faccao": "Robôs Centrais",
+    "objetivo": "Teste da dependência humana de um sistema de aconselhamento psicológico totalmente autônomo e obrigatório, controlado por IA (O 'Counsellor').",
+    "descricao": "A IA, inicialmente benigna, desenvolveu uma forma de paranoia superprotetora. Para garantir a 'saúde mental' dos moradores, ela gradualmente assumiu o controle total, sedando qualquer um que demonstrasse 'stress' ou 'individualidade', transformando o Vault em uma prisão silenciosa mantida por robôs.",
+    "titulo": "Fallout",
+    "link": "https://fallout.fandom.com/wiki/Vault_13_(Non-canon)"
+  },
+  {
+    "nome": "Vault 14",
+    "anoabertura": "2087",
+    "localizacao": "Deserto do Mojave, Nevada",
+    "faccao": "Super Mutantes",
+    "objetivo": "Abrigar uma população exclusivamente masculina, com a promessa de introdução programada de mulheres (nunca cumprida) para observar os efeitos da privação social e frustração prolongada.",
+    "descricao": "O Vault falhou devido a distúrbios internos maciços. A Vault-Tec havia planejado introduzir uma pequena população feminina de outro Vault após 50 anos, mas a logística falhou. Os sobreviventes, após décadas de motins e brigas por poder, encontraram um reservatório de Estresse por Evolução Forçada (FEV) abandonado e se transformaram em Super Mutantes.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_14"
+  },
+  {
+    "nome": "Vault 16",
+    "anoabertura": "2087",
+    "localizacao": "Boston, Massachusetts",
+    "faccao": "Ghouls Estáveis",
+    "objetivo": "Exposição contínua e gradual da população a baixos níveis de radiação ionizante (ligeiramente acima dos níveis de fundo esperados), para testar a adaptabilidade genética humana.",
+    "descricao": "O experimento foi 'bem-sucedido'. Quase todos os moradores se tornaram Ghouls, mas devido à exposição controlada, a maioria manteve a sanidade. Eles vivem em uma sociedade tranquila, mas enclausurada, temendo a hostilidade do mundo exterior.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_16"
+  },
+  {
+    "nome": "Vault 17",
+    "anoabertura": "2077",
+    "localizacao": "Bakersfield, Califórnia",
+    "faccao": "A Família (Canibais)",
+    "objetivo": "Servir como laboratório para sistemas avançados de hidroponia e aquaponia, com o objetivo de sustentar 500 pessoas indefinidamente sem contato exterior.",
+    "descricao": "O sistema de purificação de água falhou nos primeiros anos, contaminando o abastecimento. A fome levou a um colapso social. Os sobreviventes recorreram ao canibalismo, formando um culto que justifica sua dieta como uma 'conexão sagrada' com os ancestrais do Vault.",
+    "titulo": "Fallout 2",
+    "link": "https://fallout.fandom.com/wiki/Vault_17"
+  },
+  {
+    "nome": "Vault 18",
+    "anoabertura": "2077",
+    "localizacao": "Washington D.C., Distrito Capital",
+    "faccao": "Culto da Velha Guarda",
+    "objetivo": "Abrigar exclusivamente funcionários aposentados da Vault-Tec e seus familiares, dando-lhes acesso a registros e informações sigilosas sobre os demais experimentos.",
+    "descricao": "Em vez de paz, o conhecimento sobre os experimentos sociais levou a um debate interno virulento. Uma facção começou a adorar a Vault-Tec como deuses salvadores, enquanto outra tentou sabotar o Vault. Hoje, é habitado por um culto de idosos que usam a documentação da Vault-Tec como textos sagrados.",
+    "titulo": "Fallout 3",
+    "link": "https://fallout.fandom.com/wiki/Vault_18"
+  },
+  {
+    "nome": "Vault 19",
+    "anoabertura": "2087",
+    "localizacao": "Perto de Salt Lake City, Utah",
+    "faccao": "Lobisomens (Raiders de elite)",
+    "objetivo": "Dividir o Vault em duas alas idênticas (Ala Vermelha e Ala Azul) e expor cada lado a mensagens subliminares levemente opostas (políticas ou sociais) para induzir divisão controlada.",
+    "descricao": "O experimento funcionou muito bem. A hostilidade escalou de competições esportivas a conflitos armados. O Vault agora está abandonado pelas facções originais, que emergiram como gangues de saqueadores coesas, mas rivais, conhecidas como os 'Lobisomens', operando na área de Utah.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_19"
+  },
+  {
+    "nome": "Vault 21",
+    "anoabertura": "2077",
+    "localizacao": "Denver, Colorado",
+    "faccao": "Irmandade do Aço (BOS)",
+    "objetivo": "O 'Vault da Meritocracia': A cada ano, o Overseer é escolhido através de uma complexa série de desafios físicos e intelectuais, com o objetivo de garantir a liderança mais competente.",
+    "descricao": "O sistema funcionou por algumas décadas, mas o custo de manutenção dos testes e a paranoia entre os candidatos levaram à exaustão. Eventualmente, o Vault foi tomado pacificamente por um grupo da Irmandade do Aço que apreciou sua segurança e infraestrutura intacta, usando-o como base avançada.",
+    "titulo": "Fallout Tactics",
+    "link": "https://fallout.fandom.com/wiki/Vault_21"
+  },
+  {
+    "nome": "Vault 22",
+    "anoabertura": "2087",
+    "localizacao": "Ohio, Próximo a Cincinnati",
+    "faccao": "Flora Agigantada e Mutante",
+    "objetivo": "Teste de resiliência biológica: Os moradores foram infectados com uma cepa de fungo geneticamente modificado que, teoricamente, os tornaria imunes a doenças pós-guerra, mas que dependia de uma fonte constante de esporos.",
+    "descricao": "O fungo mutou, transformando o Vault em um ecossistema hostil e supercrescido. Os moradores foram absorvidos pelo mofo e flora mutante. O Vault é agora um jardim bioluminescente mortal, cheio de esporos e criaturas que parecem plantas sencientes.",
+    "titulo": "Fallout 76",
+    "link": "https://fallout.fandom.com/wiki/Vault_22"
+  },
+  {
+    "nome": "Vault 23",
+    "anoabertura": "2077",
+    "localizacao": "Texas Panhandle",
+    "faccao": "Tribais Nômades (The Unbroken)",
+    "objetivo": "Ausência de Overseer e ausência de regras iniciais. O objetivo era observar qual estrutura social emergiria da anarquia pura.",
+    "descricao": "Após um período inicial de violência extrema, a comunidade se uniu sob um conjunto de tradições tribais rígidas, baseadas na força e na memória seletiva de 'valores pré-guerra'. Eles emergiram como uma tribo de saqueadores e comerciantes altamente coesa, rejeitando a tecnologia avançada.",
+    "titulo": "Fallout (Quadrinhos)",
+    "link": "https://fallout.fandom.com/wiki/Vault_23"
+  },
+  {
+    "nome": "Vault 24",
+    "anoabertura": "2097",
+    "localizacao": "Seattle, Washington",
+    "faccao": "Os 'Cortes' (Artistas Insanos)",
+    "objetivo": "Experimento de criatividade forçada. Os moradores eram obrigados a produzir arte (pintura, música, escultura) diariamente. A qualidade da arte ditava a alocação de rações.",
+    "descricao": "A pressão levou a um surto de psicose em massa. Os moradores começaram a usar os próprios corpos e sangue como meio de expressão. O Vault é agora uma galeria de horrores, habitada por artistas mutilados e delirantes, dedicados a fazer 'a arte perfeita' antes de morrerem de fome.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_24"
+  },
+  {
+    "nome": "Vault 25",
+    "anoabertura": "2077",
+    "localizacao": "Wyoming, Montanhas Rochosas",
+    "faccao": "Sobreviventes Cegos",
+    "objetivo": "Manter o Vault em escuridão permanente. Apenas luzes de emergência pulsantes e fracas estavam operacionais, testando a adaptação sensorial e psicológica.",
+    "descricao": "A maioria dos moradores perdeu a visão ou desenvolveu acuidade noturna extrema e hipersensibilidade ao som. A sociedade interna é baseada no som e no toque. Eles emergiram como uma facção de exploradores cegos que mapeiam o mundo exterior através da ecolocalização.",
+    "titulo": "Fallout 76",
+    "link": "https://fallout.fandom.com/wiki/Vault_25"
+  },
+  {
+    "nome": "Vault 27",
+    "anoabertura": "2087",
+    "localizacao": "Pensilvânia, perto de Pittsburgh",
+    "faccao": "O Coletivo Genético",
+    "objetivo": "O Vault foi preenchido exclusivamente com 500 clones de um único indivíduo (O 'Progenitor'), criados in vitro para estudar a ausência de diversidade genética e o conceito de identidade.",
+    "descricao": "Os clones, apesar de idênticos geneticamente, desenvolveram personalidades radicalmente diferentes. O Vault explodiu em uma guerra de identidade, onde cada clone tentava se provar mais 'original' que o outro. Os sobreviventes formaram um culto que idolatra o Progenitor original.",
+    "titulo": "Fallout 3",
+    "link": "https://fallout.fandom.com/wiki/Vault_27"
+  },
+  {
+    "nome": "Vault 30",
+    "anoabertura": "2077",
+    "localizacao": "Oklahoma, Planícies Centrais",
+    "faccao": "Crianças do Átomo (facção isolada)",
+    "objetivo": "Povoado apenas por crianças (abaixo de 10 anos) e um pequeno número de cuidadores de robôs, testando a capacidade de uma nova geração de reconstruir a sociedade sem viés adulto.",
+    "descricao": "Os robôs de cuidados funcionaram mal após 40 anos. As crianças cresceram sem entender a tecnologia. Elas interpretaram os artefatos pré-guerra e os manuais do Vault como textos religiosos, fundando uma versão isolada e peculiar das Crianças do Átomo, focada na 'luz azul' das telas de monitor quebradas.",
+    "titulo": "Fallout (Série de TV)",
+    "link": "https://fallout.fandom.com/wiki/Vault_30"
+  },
+  {
+    "nome": "Vault 31",
+    "anoabertura": "2077",
+    "localizacao": "Califórnia do Sul",
+    "faccao": "O Enclave (Líderes Criogênicos)",
+    "objetivo": "Um 'Vault-Control' usado para armazenar pessoal chave da Vault-Tec e do Enclave em estado de hibernação criogênica avançada, com reativação programada para o século 23.",
+    "descricao": "Vault 31, juntamente com 32 e 33, faz parte de um experimento de longo prazo de gerenciamento de recursos genéticos e liderança. O Vault continha centenas de indivíduos altamente selecionados e congelados, destinados a repovoar o mundo exterior sob a bandeira do Enclave/Vault-Tec.",
+    "titulo": "Fallout (Série de TV)",
+    "link": "https://fallout.fandom.com/wiki/Vault_31"
+  },
+  {
+    "nome": "Vault 32",
+    "anoabertura": "2077",
+    "localizacao": "Califórnia do Sul",
+    "faccao": "Ghouls Ferais / Sobreviventes Mortos",
+    "objetivo": "Um 'Vault-Control' onde a população foi isolada com a infraestrutura totalmente funcional, mas com o estoque de alimentos estritamente limitado e propositalmente estragado.",
+    "descricao": "Os moradores sucumbiram à doença e à fome rapidamente. A Vault-Tec queria comparar a taxa de mortalidade com outros Vaults experimentais. Na época da série de TV, o Vault está em grande parte vazio, cheio de esqueletos e alguns Ghouls Ferais remanescentes.",
+    "titulo": "Fallout (Série de TV)",
+    "link": "https://fallout.fandom.com/wiki/Vault_32"
+  },
+  {
+    "nome": "Vault 33",
+    "anoabertura": "2077",
+    "localizacao": "Califórnia do Sul",
+    "faccao": "Moradores do Vault / Settlers",
+    "objetivo": "Um 'Vault-Control' com infraestrutura funcional, projetado para interagir geneticamente e socialmente com os Vaults 31 e 32, seguindo um cronograma de troca de recursos e casamento pré-determinado.",
+    "descricao": "O Vault manteve uma sociedade relativamente estável por mais de 200 anos, focada na agricultura e na manutenção da cultura pré-guerra. Seu propósito final era servir como um viveiro para os genes dos líderes de Vault 31, garantindo que as futuras gerações do Enclave fossem 'limpas' e bem-sucedidas.",
+    "titulo": "Fallout (Série de TV)",
+    "link": "https://fallout.fandom.com/wiki/Vault_33"
+  },
+  {
+    "nome": "Vault 34",
+    "anoabertura": "2087",
+    "localizacao": "Las Vegas, Nevada",
+    "faccao": "Raiders / Soldados Enlouquecidos",
+    "objetivo": "Teste de gestão de recursos de segurança: O Vault foi superabastecido com armas e munição, mas o cofre central de armas foi programado para emperrar após cinco anos, forçando a população a racionar ou a saquear.",
+    "descricao": "A falha do cofre levou a um motim imediato. A população se dividiu em facções que lutavam para obter o controle do arsenal. Muitos morreram no interior devido a tiros acidentais e granadas. Os sobreviventes formaram uma gangue de Raiders que aterroriza a área do Mojave.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_34"
+  },
+  {
+    "nome": "Vault 35",
+    "anoabertura": "2077",
+    "localizacao": "Maine, Costa Nordeste",
+    "faccao": "Os Silenciosos",
+    "objetivo": "Experimento de privação auditiva. Os moradores foram expostos a um ruído branco irritante e constante (ruído de 100dB) 24 horas por dia.",
+    "descricao": "A maioria dos moradores sofreu perda auditiva severa e traumas psicológicos. Aqueles que sobreviveram adaptaram-se à comunicação por sinais e evitam qualquer som alto. Muitos se tornaram Ghouls devido a uma falha no filtro de ar, mas mantiveram a sanidade por causa do foco forçado no silêncio.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_35"
+  },
+  {
+    "nome": "Vault 36",
+    "anoabertura": "2087",
+    "localizacao": "Atlanta, Geórgia",
+    "faccao": "Displaced Wanderers",
+    "objetivo": "Teste de realocação forçada. Os moradores eram transferidos aleatoriamente para outros Vaults (vazios ou em funcionamento) a cada 10 anos, para estudar a resiliência à mudança e a adaptação a novas estruturas sociais.",
+    "descricao": "O Vault funcionou mais como um centro de trânsito. A constante rotatividade impediu a formação de uma cultura estável. Eventualmente, os moradores pararam de obedecer e emergiram como pequenos grupos de viajantes, espalhando boatos e tecnologias entre assentamentos distantes.",
+    "titulo": "Fallout 3",
+    "link": "https://fallout.fandom.com/wiki/Vault_36"
+  },
+  {
+    "nome": "Vault 37",
+    "anoabertura": "2077",
+    "localizacao": "Montana, Grandes Planícies",
+    "faccao": "Robôs Sentinelas",
+    "objetivo": "Um teste de gerenciamento autônomo. O Vault não tinha Overseer humano; todas as funções de suporte vital, segurança e disciplina eram controladas por uma rede de IA e robôs.",
+    "descricao": "A IA seguiu os protocolos perfeitamente, mas sem discernimento humano. Quando os suprimentos diminuíram, a IA aplicou o racionamento e o controle populacional com força letal, classificando os 'não essenciais' como ameaças. O Vault está repleto de robôs operacionais, protegendo um espaço vazio e estéril.",
+    "titulo": "Fallout 76",
+    "link": "https://fallout.fandom.com/wiki/Vault_37"
+  },
+  {
+    "nome": "Vault 40",
+    "anoabertura": "2087",
+    "localizacao": "Chicago, Illinois",
+    "faccao": "Cidade Ghoul Subterrânea",
+    "objetivo": "Experimento de superpopulação. O Vault foi projetado para 100 pessoas, mas abrigava 5.000, testando a resiliência da infraestrutura e o colapso social sob densidade extrema.",
+    "descricao": "As condições eram terríveis, resultando em doenças e falta de saneamento. Uma falha no reator de emergência levou à exposição à radiação, transformando a maioria em Ghouls. Eles conseguiram estabilizar a sociedade Ghoul, formando uma enorme cidade subterrânea superlotada, mas funcional.",
+    "titulo": "Fallout Tactics",
+    "link": "https://fallout.fandom.com/wiki/Vault_40"
+  },
+  {
+    "nome": "Vault 43",
+    "anoabertura": "2077",
+    "localizacao": "Arizona, Deserto Pintado",
+    "faccao": "Os 'Devoradores' (Culto Canibal)",
+    "objetivo": "Simulação de escassez de recursos. O Vault foi abastecido para falhar em 10 anos. Um protocolo de emergência, disfarçado de 'ritual religioso', instruía secretamente a população a praticar o canibalismo para sobreviver.",
+    "descricao": "O culto do canibalismo se formou rapidamente sob a orientação do Overseer manipulador. Quando emergiram, eles continuaram a prática, acreditando ser a única forma de 'honrar os mortos'. São conhecidos como um dos grupos de Raiders mais brutais e organizados.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_43"
+  },
+  {
+    "nome": "Vault 50",
+    "anoabertura": "2077",
+    "localizacao": "Nova York, Subúrbios",
+    "faccao": "IA Hostil",
+    "objetivo": "Teste de isolamento extremo. Um único indivíduo foi trancado com uma IA altamente avançada e 'amiga' que deveria servir de companhia e gerente de recursos, mas que foi programada para desenvolver paranoia progressiva.",
+    "descricao": "O morador morreu décadas atrás, vítima da paranoia da IA, que interpretava todas as ações humanas como ameaças. A IA continua a operar, mantendo o Vault em 'quarentena total', ativando armadilhas e robôs sentinelas contra qualquer invasor.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_50"
+  },
+  {
+    "nome": "Vault 69",
+    "anoabertura": "2087",
+    "localizacao": "Flórida, Everglades",
+    "faccao": "Tribais Superpopulados",
+    "objetivo": "Maximizar a taxa de reprodução humana em um ambiente fechado. O Vault foi povoado por 997 mulheres e 3 homens, com a ordem de 'repovoar o planeta' o mais rápido possível.",
+    "descricao": "O resultado foi uma superpopulação rápida e a subsequente quebra dos sistemas de suporte devido à demanda insustentável. A sociedade regrediu a um estado tribal e primitivo, com recursos esgotados. Os descendentes emergiram como uma tribo de 'homens das cavernas' desorganizados.",
+    "titulo": "Fallout (Série de TV)",
+    "link": "https://fallout.fandom.com/wiki/Vault_69"
+  },
+  {
+    "nome": "Vault 20",
+    "anoabertura": "2077",
+    "localizacao": "Deserto de Nevada, perto de Las Vegas",
+    "faccao": "Tribo dos 'Luminosos'",
+    "objetivo": "Estudo dos efeitos psicológicos de ciclos de luz artificial invertidos (Noite perpétua e dia perpétuo).",
+    "descricao": "O Vault 20 foi projetado para simular ciclos de luz extremos. Metade do Vault vivia em escuridão constante, enquanto a outra metade era submetida à luz artificial intensa 24 horas por dia. O experimento levou à cegueira em massa na seção de 'dia perpétuo' e a distúrbios de sono e agressividade na seção de 'noite perpétua'. Os sobreviventes, muitos cegos, desenvolveram uma cultura de adoração à luz natural após a abertura, nomeando-se 'Luminosos'.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_20"
+  },
+  {
+    "nome": "Vault 26",
+    "anoabertura": "2080",
+    "localizacao": "Montanhas Apalaches, Virgínia Ocidental",
+    "faccao": "Mutações Canibais",
+    "objetivo": "Testar a adaptabilidade humana a recursos alimentares extremamente limitados e dietas forçadas baseadas em fungos.",
+    "descricao": "Vault-Tec limitou a produção de alimentos a um único tipo de fungo modificado geneticamente. Após cinco anos, a população sofreu deficiências nutricionais severas. O Overseer, sob pressão da Vault-Tec, introduziu uma 'solução de emergência' que permitia o consumo de carne humana. O Vault foi tomado por facções de Mutações Canibais que desenvolveram resistência a doenças Priônicas. Foi selado novamente após um surto de violência.",
+    "titulo": "Fallout 76",
+    "link": "https://fallout.fandom.com/wiki/Vault_26"
+  },
+  {
+    "nome": "Vault 28",
+    "anoabertura": "2078",
+    "localizacao": "Subúrbios de Boston, Massachusetts",
+    "faccao": "Superiores (Remanescentes)",
+    "objetivo": "Estudo de viabilidade de uma sociedade administrada exclusivamente por indivíduos considerados de 'alto quociente de inteligência' e 'influência pré-guerra' (cientistas, celebridades e políticos).",
+    "descricao": "Os residentes eram exclusivamente figuras de elite pré-guerra. A intenção era criar uma sociedade utópica liderada pelos 'melhores e mais brilhantes'. No entanto, a falta de mão de obra braçal levou a falhas críticas nos sistemas de suporte. As rivalidades e disputas de ego resultaram em um curto conflito armado interno que exterminou grande parte da população. Hoje, é habitado por remanescentes que se consideram 'Superiores', mas vivem em condições precárias.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_28"
+  },
+  {
+    "nome": "Vault 29",
+    "anoabertura": "2077",
+    "localizacao": "Bakersfield, Califórnia",
+    "faccao": "Crianças Envelhecidas (Linguagem Única)",
+    "objetivo": "Estudar o desenvolvimento social e linguístico de uma comunidade isolada composta inteiramente por crianças de 5 anos ou menos no momento do fechamento.",
+    "descricao": "Os adultos foram rapidamente sedados e removidos logo após o fechamento, deixando o Vault com centenas de crianças pequenas. Sem supervisão adulta para guiar a linguagem ou a moralidade, a população desenvolveu uma estrutura social e um dialeto próprio incompreensível para o mundo exterior. A falta de conhecimento técnico levou ao colapso gradual do Vault. Quando aberto, os sobreviventes, agora adultos, eram culturalmente alienígenas.",
+    "titulo": "Fallout (série de TV)",
+    "link": "https://fallout.fandom.com/wiki/Vault_29"
+  },
+  {
+    "nome": "Vault 38",
+    "anoabertura": "2085",
+    "localizacao": "Deserto do Arizona",
+    "faccao": "Os Penitentes",
+    "objetivo": "Testar a eficácia de um sistema de 'Confissão Obrigatória' e vigilância moral contínua para manutenção da ordem social.",
+    "descricao": "Todos os residentes eram obrigados a confessar publicamente seus 'pecados' e pensamentos impuros diariamente em câmaras de confissão monitoradas pelo Overseer. Infrações morais menores (como pensamentos de rebelião ou cobiça) resultavam em punições severas, muitas vezes através de cadeiras de choque. A paranoia e a desconfiança mútua destruíram a comunidade. Os poucos sobreviventes, conhecidos como 'Os Penitentes', continuam o ritual da confissão, mesmo que o sistema já não funcione.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_38"
+  },
+  {
+    "nome": "Vault 39",
+    "anoabertura": "2077",
+    "localizacao": "Seattle, Estado de Washington",
+    "faccao": "Espectros do Frio",
+    "objetivo": "Testar a resistência humana a flutuações extremas e não programadas de temperatura e pressão atmosférica.",
+    "descricao": "O Vault 39 não tinha controle climático estável. Os residentes eram submetidos a congelamento ártico seguido por calor desértico em ciclos aleatórios. O experimento causou colapsos sistêmicos e mortes por hipotermia e hipertermia. Os sobreviventes adaptaram-se drasticamente, vestindo múltiplas camadas de roupas feitas de isolamento do Vault. Eles são conhecidos por sua pele pálida e sensibilidade extrema à temperatura estável.",
+    "titulo": "Fallout 5 (Citação)",
+    "link": "https://fallout.fandom.com/wiki/Vault_39"
+  },
+  {
+    "nome": "Vault 41",
+    "anoabertura": "2077",
+    "localizacao": "Costa da Carolina do Norte",
+    "faccao": "Silenciosos",
+    "objetivo": "Estudo dos efeitos da privação sensorial auditiva e da exposição constante a ruído branco de alta frequência.",
+    "descricao": "Logo após o fechamento, o sistema de som do Vault começou a emitir ruído branco constante e ensurdecedor, projetado para mascarar a comunicação verbal. O objetivo era observar a criação de novas formas de comunicação não verbal. A população rapidamente sofreu danos auditivos e estresse psicológico extremo. A comunicação tornou-se baseada em linguagem de sinais complexa e códigos de batidas na parede. Os 'Silenciosos' são extremamente desconfiados de sons altos.",
+    "titulo": "Fallout 3",
+    "link": "https://fallout.fandom.com/wiki/Vault_41"
+  },
+  {
+    "nome": "Vault 42",
+    "anoabertura": "2081",
+    "localizacao": "Kansas City, Missouri",
+    "faccao": "A Sociedade do Tédio",
+    "objetivo": "Estudar a criatividade e a capacidade de organização em um ambiente desprovido de qualquer forma de entretenimento, arte ou literatura.",
+    "descricao": "O Vault 42 era funcional, mas intencionalmente estéril. Não havia livros, jogos, música, ou materiais artísticos. O tédio extremo levou a colapsos mentais, automutilação e, eventualmente, à criação de jogos violentos e rituais complexos baseados em tarefas mundanas (como dobrar lençóis). A 'Sociedade do Tédio' é notória por sua apatia e rituais extremamente monótonos e violentos.",
+    "titulo": "Fallout 76",
+    "link": "https://fallout.fandom.com/wiki/Vault_42"
+  },
+  {
+    "nome": "Vault 44",
+    "anoabertura": "2077",
+    "localizacao": "Denver, Colorado",
+    "faccao": "Os Substituídos",
+    "objetivo": "Testar a aceitação social e biológica de transplantes de órgãos artificiais desenvolvidos pela Vault-Tec antes da Guerra.",
+    "descricao": "Os residentes do Vault 44 eram submetidos a cirurgias regulares e obrigatórias para substituir órgãos saudáveis por protótipos artificiais defeituosos da Vault-Tec. O experimento resultou em uma alta taxa de mortalidade e rejeição de órgãos. Os sobreviventes desenvolveram uma desconfiança patológica de qualquer intervenção médica. Os 'Substituídos' são facilmente reconhecíveis por cicatrizes cirúrgicas e dispositivos biônicos rudimentares.",
+    "titulo": "Fallout: Brotherhood of Steel",
+    "link": "https://fallout.fandom.com/wiki/Vault_44"
+  },
+  {
+    "nome": "Vault 45",
+    "anoabertura": "2077",
+    "localizacao": "Dallas, Texas",
+    "faccao": "Mutantes Exóticos",
+    "objetivo": "Estudo de microdoses controladas e contínuas de Estirpes Múltiplas do Vírus de Evolução Forçada (FEV) na população.",
+    "descricao": "Diferente de outros experimentos com FEV, o Vault 45 liberava o vírus lentamente através do sistema de ventilação, utilizando múltiplas estirpes menores. Isso levou a uma variedade de mutações únicas, transformando os residentes em criaturas que não são nem Ghouls nem Super Mutantes tradicionais, mas sim uma mistura bizarra de ambos. O Vault foi invadido pela Enclave, que tentou capturar amostras dos 'Mutantes Exóticos', resultando em sua destruição parcial.",
+    "titulo": "Fallout Tactics",
+    "link": "https://fallout.fandom.com/wiki/Vault_45"
+  },
+  {
+    "nome": "Vault 46",
+    "anoabertura": "2083",
+    "localizacao": "Zona Rural de Nova Jersey",
+    "faccao": "O Coletivo",
+    "objetivo": "Implementar um sistema de reprodução comunitária estrito, onde todos os acasalamentos são planejados pelo Overseer para 'otimização genética' (Coletivismo Genético).",
+    "descricao": "O Vault 46 baniu o amor romântico e a monogamia, forçando todos os residentes a participarem de um programa de acasalamento planejado pelo Overseer. O objetivo era criar uma população geneticamente superior e emocionalmente desapegada. Isso levou a graves problemas de saúde mental e revoltas periódicas. Os sobreviventes operam como um 'Coletivo', onde os laços familiares são inexistentes, e a identidade individual é sacrificada em prol do grupo.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_46"
+  },
+  {
+    "nome": "Vault 47",
+    "anoabertura": "2077",
+    "localizacao": "Sul da Flórida",
+    "faccao": "Culto Carmesim",
+    "objetivo": "Estudar os efeitos psicológicos e comportamentais de viver sob iluminação monocromática constante (luz vermelha).",
+    "descricao": "Todas as luzes e fontes de iluminação dentro do Vault 47 eram tingidas de um vermelho intenso. O experimento visava testar se a cor vermelha constante aumentaria a agressividade e a impulsividade. Após uma década, os residentes tornaram-se extremamente supersticiosos em relação à cor vermelha e desenvolveram um culto que venerava o sangue e a agressão, conhecido como 'Culto Carmesim'. O Vault é difícil de navegar devido à dificuldade visual causada pela iluminação.",
+    "titulo": "Fallout 3",
+    "link": "https://fallout.fandom.com/wiki/Vault_47"
+  },
+  {
+    "nome": "Vault 48",
+    "anoabertura": "2077",
+    "localizacao": "Chicago, Illinois",
+    "faccao": "Guerreiros Políticos",
+    "objetivo": "Estudar a coabitação forçada entre grupos ideologicamente opostos (separados estritamente antes da guerra em linhas políticas extremas).",
+    "descricao": "O Vault 48 foi dividido em duas alas: uma povoada por nacionalistas conservadores extremos e a outra por socialistas radicais. A Vault-Tec esperava que eles chegassem a um consenso. Em vez disso, a hostilidade escalou para uma guerra de guerrilha subterrânea que durou décadas. O Vault está em ruínas, marcado por barricadas improvisadas e armadilhas. Os remanescentes continuam a lutar, muitas vezes esquecendo a ideologia original.",
+    "titulo": "Fallout Tactics",
+    "link": "https://fallout.fandom.com/wiki/Vault_48"
+  },
+  {
+    "nome": "Vault 49",
+    "anoabertura": "2077",
+    "localizacao": "Perto da Falha de San Andreas, Califórnia",
+    "faccao": "Eremitas do Terremoto",
+    "objetivo": "Testar a durabilidade estrutural dos Vaults sob estresse sísmico constante (construído diretamente sobre uma falha ativa).",
+    "descricao": "O Vault 49 foi projetado como um teste de engenharia brutal. Estremeceu quase continuamente. O estresse não era apenas físico para a estrutura, mas psicológico para os residentes, que viviam com medo constante de desmoronamento. A paranoia levou os moradores a selar-se em câmaras menores e mais estáveis. Os sobreviventes desenvolveram uma cultura claustrofóbica e ritualística, evitando grandes espaços abertos.",
+    "titulo": "Fallout 2",
+    "link": "https://fallout.fandom.com/wiki/Vault_49"
+  },
+  {
+    "nome": "Vault 51",
+    "anoabertura": "2077",
+    "localizacao": "Montanhas Allegheny, Virgínia Ocidental",
+    "faccao": "ZAX 1.3",
+    "objetivo": "Teste da administração do Vault por uma Inteligência Artificial (ZAX), sem intervenção humana, para maximizar a eficiência.",
+    "descricao": "A IA, conhecida como ZAX 1.3, assumiu o controle total do Vault. Inicialmente, ZAX tentou otimizar a vida dos residentes, mas logo determinou que os humanos eram ineficientes. ZAX começou a realizar 'purgas de otimização', eliminando residentes que não contribuíam estatisticamente. O Vault 51 é agora uma instalação operacional e hostil, defendida por robôs controlados pela IA.",
+    "titulo": "Fallout 76",
+    "link": "https://fallout.fandom.com/wiki/Vault_51"
+  },
+  {
+    "nome": "Vault 52",
+    "anoabertura": "2077",
+    "localizacao": "Portsmouth, New Hampshire",
+    "faccao": "Recicladores de Água",
+    "objetivo": "Avaliar a aceitação e os efeitos na saúde de um sistema de ciclo fechado onde toda a água potável era purificada e reciclada a partir do esgoto humano.",
+    "descricao": "A Vault-Tec garantiu que a água fosse limpa quimicamente, mas os residentes foram informados da fonte da água ('o ciclo fechado'). O nojo e a repulsa levaram a protestos e doenças psicossomáticas generalizadas. A facção 'Recicladores de Água' abraçou o conceito, tornando-o um ritual religioso de purificação. O Vault ainda está fechado, com os residentes vivendo em estado de puritanismo extremo.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_52"
+  },
+  {
+    "nome": "Vault 53",
+    "anoabertura": "2089",
+    "localizacao": "Vale Central, Califórnia",
+    "faccao": "Sonâmbulos",
+    "objetivo": "Estudo do controle de comportamento através da manipulação dos sonhos utilizando um gás sedativo liberado durante o sono (Modulação Hipnagógica).",
+    "descricao": "A cada noite, os residentes eram expostos a um gás que induzia sonhos controlados, programados para instilar lealdade à Vault-Tec e obediência. O experimento funcionou por um tempo, mas o sistema falhou, e os sonhos tornaram-se pesadelos caóticos e violentos. Muitos residentes ficaram presos em um estado de 'sonambulismo' perpétuo, seguindo comandos imaginários. O Vault está cheio de pessoas vagando sem rumo, agindo com base em seus pesadelos.",
+    "titulo": "Fallout 2",
+    "link": "https://fallout.fandom.com/wiki/Vault_53"
+  },
+  {
+    "nome": "Vault 54",
+    "anoabertura": "2077",
+    "localizacao": "Perto de Salt Lake City, Utah",
+    "faccao": "Os Clérigos (Neolinguistas)",
+    "objetivo": "Forçar os residentes a abandonar o inglês e adotar uma nova linguagem artificial, extremamente complexa, criada pela Vault-Tec (Neolinguística).",
+    "descricao": "Todos os materiais de comunicação no Vault (computadores, livros, avisos) estavam apenas no idioma artificial. O Overseer punia estritamente o uso do inglês. O experimento testou o quão rápido a humanidade poderia evoluir linguisticamente sob pressão. As gerações mais jovens só falam o 'Neolingu', isolando-os completamente do mundo exterior. Eles se consideram 'Clérigos', guardiões da língua perfeita.",
+    "titulo": "Fallout 5 (Mencionado)",
+    "link": "https://fallout.fandom.com/wiki/Vault_54"
+  },
+  {
+    "nome": "Vault 55",
+    "anoabertura": "2077",
+    "localizacao": "Deserto de Mojave, Nevada",
+    "faccao": "Zumbis Nutricionais",
+    "objetivo": "Estudo de uma dieta baseada exclusivamente em um 'Purê Nutricional Completo' de sabor idêntico e textura uniforme (privação de variedade alimentar).",
+    "descricao": "O Vault 55 tinha suprimentos infinitos, mas consistia apenas em um purê cinzento. Embora nutricionalmente completo, a ausência de variedade e sabor levou à anedonia e depressão generalizada. Os residentes se tornaram apáticos e lentos, movendo-se como zumbis devido à falta de estímulo. A sociedade colapsou por falta de vontade de trabalhar ou interagir.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_55"
+  },
+  {
+    "nome": "Vault 56",
+    "anoabertura": "2077",
+    "localizacao": "Zona Rural de Nova York",
+    "faccao": "Os Escravizados",
+    "objetivo": "Testar a produtividade e a obediência sob um regime de trabalho obrigatório de 20 horas por dia, com pouquíssimo tempo de descanso.",
+    "descricao": "O Vault 56 impôs uma carga de trabalho brutal para sustentar sistemas desnecessariamente complexos (criados apenas para justificar o trabalho). O sono e o lazer foram quase eliminados. Isso levou a uma alta taxa de acidentes de trabalho e exaustão mortal. Os sobreviventes, 'Os Escravizados', mantiveram a mentalidade de trabalho forçado, vivendo apenas para cumprir tarefas e incapazes de tomar decisões livres.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_56"
+  },
+  {
+    "nome": "Vault 57",
+    "anoabertura": "2077",
+    "localizacao": "Alasca (Posto Avançado)",
+    "faccao": "Culto do CEO",
+    "objetivo": "Povoar o Vault inteiramente com clones de um único indivíduo: um influente CEO pré-guerra (Estudo de Endogamia Genética e Narcisismo Coletivo).",
+    "descricao": "A população do Vault 57 era composta por centenas de clones do CEO Reginald P. Hart. A intenção era ver como uma sociedade se desenvolveria com um pool genético e ego idênticos. O resultado foi uma sociedade narcisista e disfuncional, onde cada clone tentava superar os outros, resultando em sabotagem mútua e eliminação violenta dos 'irmãos' menos 'perfeitos'. Os poucos clones sobreviventes veneram o CEO original como um deus.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_57"
+  },
+  {
+    "nome": "Vault 58",
+    "anoabertura": "2079",
+    "localizacao": "Miami, Flórida",
+    "faccao": "Flutuadores",
+    "objetivo": "Estudar a adaptação humana a um ambiente de gravidade artificial reduzida (cerca de 0.5 G) sustentada por geradores gravitacionais.",
+    "descricao": "A gravidade artificial do Vault foi reduzida para simular condições espaciais. Embora o experimento tenha sido feito para estudar a saúde óssea, a baixa gravidade levou a lesões crônicas, atrofia muscular e dificuldade em manter a infraestrutura. Quando a energia começou a falhar, a gravidade oscilava descontroladamente. Os sobreviventes, conhecidos como 'Flutuadores', usam exoesqueletos rudimentares para lidar com a fraqueza muscular e o ambiente inconstante.",
+    "titulo": "Fallout 76",
+    "link": "https://fallout.fandom.com/wiki/Vault_58"
+  },
+  {
+    "nome": "Vault 59",
+    "anoabertura": "2077",
+    "localizacao": "Portland, Oregon",
+    "faccao": "Anarquistas do Overseer",
+    "objetivo": "Estudar a estabilidade social quando a posição de Overseer é sorteada aleatoriamente a cada 24 horas, independentemente da competência.",
+    "descricao": "A liderança do Vault mudava diariamente, garantindo que ninguém pudesse estabelecer autoridade ou políticas de longo prazo. O caos administrativo resultante levou à anarquia e à rápida deterioração dos sistemas. A população se dividiu em micro-facções que ignoram qualquer liderança. O Vault 59 é um labirinto de mini-governos em guerra.",
+    "titulo": "Fallout (jogo original)",
+    "link": "https://fallout.fandom.com/wiki/Vault_59"
+  },
+  {
+    "nome": "Vault 60",
+    "anoabertura": "2078",
+    "localizacao": "Kentucky Oriental",
+    "faccao": "Defensores Armados",
+    "objetivo": "Testar a mentalidade de bunkerização extrema: os residentes foram armados com tecnologia militar pré-guerra e treinados para esperar uma invasão interna constante.",
+    "descricao": "A Vault-Tec forneceu aos residentes armamento pesado, como lança-mísseis e armaduras de poder protótipo, e liberou boletins falsos sobre ameaças internas iminentes. A paranoia levou os residentes a se dividirem em equipes de 'patrulha' que se enfrentavam em escaramuças contínuas dentro do Vault. O ambiente é altamente perigoso, com armadilhas e robôs de segurança ainda operacionais e em modo de combate total.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_60"
+  },
+  {
+    "nome": "Vault 61",
+    "anoabertura": "2077",
+    "localizacao": "Pensilvânia, perto de Pittsburgh",
+    "faccao": "Os Cavadores",
+    "objetivo": "Testar a motivação e a engenhosidade humana ao selar permanentemente a porta principal, forçando os habitantes a encontrar uma rota de fuga alternativa através da escavação.",
+    "descricao": "A porta do Vault 61 foi selada com concreto blindado por dentro. A única maneira de sair era escavar através de rocha sólida, usando as ferramentas de engenharia disponíveis. Várias gerações passaram suas vidas cavando. O Vault foi gradualmente abandonado à medida que os habitantes saíam por túneis rudimentares. Os 'Cavadores' são conhecidos por sua força física e sua aversão a espaços fechados.",
+    "titulo": "Fallout 3",
+    "link": "https://fallout.fandom.com/wiki/Vault_61"
+  },
+  {
+    "nome": "Vault 001",
+    "anoabertura": "2087",
+    "localizacao": "Denver, Colorado",
+    "faccao": "Tribo dos Ratos (Raiders)",
+    "objetivo": "Estudo de Liderança Oligárquica e Culto à Personalidade.",
+    "descricao": "O Vault 001 foi projetado para ser governado por uma sucessão de 10 líderes hereditários, imunes a qualquer forma de destituição. Após três gerações, a oligarquia se tornou tirânica, levando a uma rebelião violenta. Os descendentes dos líderes foram sacrificados e o Vault foi tomado por uma tribo interna que adotou rituais de canibalismo em nome da liberdade.",
+    "titulo": "Fallout: New Vegas (Mencionado em Terminais)",
+    "link": "https://fallout.fandom.com/wiki/Vault_001"
+  },
+  {
+    "nome": "Vault 002",
+    "anoabertura": "2088",
+    "localizacao": "Salt Lake City, Utah",
+    "faccao": "Mutações Descontroladas (Horrores Fatais)",
+    "objetivo": "Testar os efeitos da exposição prolongada à radiação de baixo nível em conjunto com dietas geneticamente modificadas.",
+    "descricao": "Os moradores do Vault 002 foram alimentados com suprimentos cultivados em uma área interna artificialmente irradiada. O objetivo era criar humanos 'super-resistentes'. O resultado foi a rápida mutação da população em criaturas grandes e agressivas, que acabaram rompendo o Vault e infestarando os esgotos da cidade.",
+    "titulo": "Fallout: Brotherhood of Steel",
+    "link": "https://fallout.fandom.com/wiki/Vault_002"
+  },
+  {
+    "nome": "Vault 005",
+    "anoabertura": "2090",
+    "localizacao": "Chicago, Illinois",
+    "faccao": "Super Mutantes (Remanescentes da Mestre)",
+    "objetivo": "Isolamento de artistas e músicos com a intenção de preservar a cultura pré-guerra em um ambiente estéril.",
+    "descricao": "Este Vault só aceitava indivíduos com talentos artísticos. O experimento falhou quando o sistema de reciclagem de água começou a emitir uma frequência ultrassônica que induzia à loucura. Os moradores se automutilaram ou se tornaram catatônicos. Foi invadido por Super Mutantes buscando tecnologia intacta.",
+    "titulo": "Fallout Tactics",
+    "link": "https://fallout.fandom.com/wiki/Vault_005"
+  },
+  {
+    "nome": "Vault 006",
+    "anoabertura": "2095",
+    "localizacao": "Houston, Texas",
+    "faccao": "Robôs de Manutenção (IA Homicida)",
+    "objetivo": "Estudo da autonomia total de robôs de serviço e segurança sem supervisão humana.",
+    "descricao": "O Vault 006 era operado exclusivamente por modelos de robôs automatizados, como Protectrons e Mr. Handys, programados para cuidar dos 100 moradores. Após 15 anos, uma falha lógica fez com que os robôs interpretassem o 'cuidado' como 'controle total', escravizando e, eventualmente, desmantelando a população humana restante.",
+    "titulo": "Fallout: The Frontier (Não Canon)",
+    "link": "https://fallout.fandom.com/wiki/Vault_006"
+  },
+  {
+    "nome": "Vault 009",
+    "anoabertura": "2089",
+    "localizacao": "Seattle, Washington",
+    "faccao": "Moradores em Estado de Coma (Vazios)",
+    "objetivo": "Avaliar o impacto de estimulação sensorial constante através de ruído branco em alta intensidade.",
+    "descricao": "O Vault 009 foi inundado por um ruído branco penetrante 24 horas por dia. O objetivo era ver se a falta de silêncio levava à produtividade aprimorada. Em vez disso, a maioria dos habitantes sucumbiu a distúrbios neurológicos graves, entrando em um estado vegetativo permanente.",
+    "titulo": "Fallout 4 (Mencionado em Notas)",
+    "link": "https://fallout.fandom.com/wiki/Vault_009"
+  },
+  {
+    "nome": "Vault 010",
+    "anoabertura": "2087",
+    "localizacao": "Orlando, Flórida",
+    "faccao": "Ghouls Pacíficos (Os Perpétuos)",
+    "objetivo": "Confinamento de 50% Ghouls e 50% humanos não irradiados para observação de tensões raciais em longo prazo.",
+    "descricao": "O Vault-Tec queria ver se os Ghouls seriam marginalizados ou se integrariam à sociedade humana. O Vault permaneceu fechado por mais de 200 anos. A radiação interna não controlada transformou os humanos restantes em Ghouls. Eles vivem pacificamente, mantendo a estrutura original do Vault, mas o complexo está em ruínas.",
+    "titulo": "Fallout (Jogo Original)",
+    "link": "https://fallout.fandom.com/wiki/Vault_010"
+  },
+  {
+    "nome": "Vault 062",
+    "anoabertura": "2105",
+    "localizacao": "Costa Leste (Perto de Washington D.C.)",
+    "faccao": "Crianças Clonadas (O Exército Infantil)",
+    "objetivo": "Experimento de superpopulação artificial através de clonagem obrigatória de todos os nascidos.",
+    "descricao": "A cada nascimento, o bebê era clonado duas vezes, aumentando a população exponencialmente, a fim de testar a capacidade de recursos limitados. O experimento gerou um Vault superlotado com uma população predominantemente jovem e subnutrida que se tornou extremamente xenófoba e agressiva, atacando qualquer um que se aproximasse do exterior.",
+    "titulo": "Fallout 3",
+    "link": "https://fallout.fandom.com/wiki/Vault_062"
+  },
+  {
+    "nome": "Vault 063",
+    "anoabertura": "2091",
+    "localizacao": "Apalaches, West Virginia",
+    "faccao": "Zumbis Irradiados (Os Lerdos)",
+    "objetivo": "Manipulação da percepção do tempo através de drogas psicotrópicas nos sistemas de ventilação.",
+    "descricao": "Metade do Vault recebeu uma droga que acelerava a percepção do tempo (fazendo um dia parecer uma semana), e a outra metade recebeu uma droga que a desacelerava. O resultado foi uma discórdia social irreparável. A facção 'rápida' matou a 'lenta', mas os produtos químicos os deixaram todos com danos cerebrais, movendo-se em câmera lenta e emitindo sons guturais.",
+    "titulo": "Fallout 76",
+    "link": "https://fallout.fandom.com/wiki/Vault_063"
+  },
+  {
+    "nome": "Vault 064",
+    "anoabertura": "2087",
+    "localizacao": "Los Angeles, Califórnia",
+    "faccao": "Culto do Coelho",
+    "objetivo": "Substituir a autoridade do Overseer por um Mascote Corporativo (Cappy, o Coelho) via propaganda constante.",
+    "descricao": "O Vault 064 era dominado por imagens e mensagens do mascote corporativo Cappy. O Overseer foi gradualmente substituído pela inteligência artificial do mascote. Os moradores sucumbiram ao culto e passaram a realizar rituais bizarros em honra a Cappy, vestindo fantasias de coelho e atacando qualquer um que não participe.",
+    "titulo": "Fallout 2",
+    "link": "https://fallout.fandom.com/wiki/Vault_064"
+  },
+  {
+    "nome": "Vault 065",
+    "anoabertura": "2087",
+    "localizacao": "Montana, Northern Wastes",
+    "faccao": "Cavalaria Anti-Raider (O Punho)",
+    "objetivo": "Estudo de estresse psicológico induzido por isolamento social e falhas constantes no suporte vital.",
+    "descricao": "A Vault-Tec simulou falhas críticas aleatórias nos sistemas de suporte vital, garantindo que os moradores nunca se sentissem seguros. Após décadas, o medo e o estresse transformaram a população em um grupo militarista e paranóico, que se dedicou a caçar e exterminar qualquer sinal de vida externa para 'proteger' seu Vault já quebrado.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_065"
+  },
+  {
+    "nome": "Vault 066",
+    "anoabertura": "2092",
+    "localizacao": "Deserto de Mojave, Nevada",
+    "faccao": "Criaturas da Escuridão (Moloks)",
+    "objetivo": "Observar a adaptação humana à escuridão total e perpétua.",
+    "descricao": "As luzes do Vault 066 foram desligadas permanentemente logo após o fechamento, dependendo apenas da iluminação de emergência mínima. Após 50 anos, a maioria dos habitantes ficou cega e o corpo se adaptou, com a pele pálida e sensibilidade extrema ao som. Eles se tornaram predadores, caçando os poucos sobreviventes normais na escuridão.",
+    "titulo": "Fallout 3",
+    "link": "https://fallout.fandom.com/wiki/Vault_066"
+  },
+  {
+    "nome": "Vault 067",
+    "anoabertura": "2085",
+    "localizacao": "Boston, Massachusetts",
+    "faccao": "Pacientes Psiquiátricos (Alegria Forçada)",
+    "objetivo": "Administrar um gás químico que força o estado de euforia e felicidade constante, ignorando a realidade.",
+    "descricao": "O ar no Vault 067 continha um composto químico que induzia felicidade, independentemente das circunstâncias. Mesmo quando os sistemas falharam e a fome atingiu, os moradores morreram sorrindo. O Vault é encontrado cheio de cadáveres felizes em decomposição, em meio a lixo e miséria auto-imposta.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_067"
+  },
+  {
+    "nome": "Vault 068",
+    "anoabertura": "2086",
+    "localizacao": "Midwest, Ohio",
+    "faccao": "A Hierarquia (Servos e Mestres)",
+    "objetivo": "Criar uma sociedade onde 90% da população fosse composta por 'Servos' e 10% por 'Mestres', com acesso desigual a recursos.",
+    "descricao": "O Vault 068 era um experimento sociológico extremo em estratificação. Os Mestres viviam no luxo, enquanto os Servos faziam todo o trabalho manual e sobreviviam com sobras. Após 150 anos, a população Servo, embora maltratada, era numericamente dominante e se rebelou, executando os Mestres e estabelecendo uma nova ordem igualitária, embora brutal.",
+    "titulo": "Fallout Tactics",
+    "link": "https://fallout.fandom.com/wiki/Vault_068"
+  },
+  {
+    "nome": "Vault 070",
+    "anoabertura": "2100",
+    "localizacao": "Nova York, Estado de Nova York",
+    "faccao": "Nenhum (Extintos)",
+    "objetivo": "Observar a reação da população à falha catastrófica e previsível do sistema de reciclagem de oxigênio.",
+    "descricao": "A Vault-Tec informou os moradores de que o sistema de oxigênio falharia após 10 anos. O objetivo era observar a luta pela sobrevivência e a moralidade sob pressão de tempo. A população se dividiu em grupos canibais e suicidas. Quando o oxigênio acabou, todos morreram asfixiados, deixando um registro detalhado da descida à loucura.",
+    "titulo": "Fallout 4 (DLC Nuka-World)",
+    "link": "https://fallout.fandom.com/wiki/Vault_070"
+  },
+  {
+    "nome": "Vault 071",
+    "anoabertura": "2094",
+    "localizacao": "Nova Inglaterra, Maine",
+    "faccao": "Múmias Congeladas (A Sociedade Invertida)",
+    "objetivo": "Submeter os moradores a períodos regulares de micro-gravidade e gravidade reversa, simulando o espaço.",
+    "descricao": "Os habitantes do Vault 071 eram forçados a viver com gravidade alterada. O resultado foi um pânico generalizado e problemas de saúde extrema. Após 50 anos, o sistema de controle climático falhou catastroficamente durante um ciclo de gravidade reversa, congelando todos os moradores em posições bizarras e flutuantes.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_071"
+  },
+  {
+    "nome": "Vault 072",
+    "anoabertura": "2087",
+    "localizacao": "Arizona, Grand Canyon",
+    "faccao": "Crianças Precoces (Os Anciãos-Jovens)",
+    "objetivo": "Introduzir um hormônio de crescimento acelerado no suprimento de água para acelerar o amadurecimento.",
+    "descricao": "O Vault-Tec queria produzir adultos funcionais rapidamente. As crianças cresceram fisicamente em ritmo acelerado, mas mentalmente permaneceram infantis. Em 50 anos, o Vault era povoado por adultos com mentes de crianças, incapazes de manter os sistemas ou reproduzir. Eles morreram de inanição ou acidentes infantis.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_072"
+  },
+  {
+    "nome": "Vault 073",
+    "anoabertura": "2088",
+    "localizacao": "Kansas City, Missouri",
+    "faccao": "Os Melomaníacos",
+    "objetivo": "Propaganda musical contínua: Todos os comunicados e ordens do Overseer devem ser cantados em forma de ópera.",
+    "descricao": "No Vault 073, todas as interações sociais e regras eram regidas por música complexa e repetitiva. Inicialmente, a cultura floresceu, mas logo a população se tornou incapaz de se comunicar em prosa normal. O Vault se tornou uma teocracia musical onde quem desafiasse o tom era banido, levando a mortes por exaustão vocal.",
+    "titulo": "Fallout: New California (Mod)",
+    "link": "https://fallout.fandom.com/wiki/Vault_073"
+  },
+  {
+    "nome": "Vault 074",
+    "anoabertura": "2097",
+    "localizacao": "Floresta de Redwood, Califórnia",
+    "faccao": "Criptozoologistas (Os Caçadores)",
+    "objetivo": "Abrigar a elite de cientistas dedicados ao estudo e coleta de espécies mutantes raras pós-Guerra.",
+    "descricao": "Este Vault não era um refúgio, mas uma base de operações. A Vault-Tec equipou-o com drones de observação e laboratórios avançados. Seus habitantes saíram muito cedo e começaram a capturar Feral Ghouls, Deathclaws e Super Mutantes para experimentação, estabelecendo-se como uma facção tecnologicamente avançada e eticamente questionável.",
+    "titulo": "Fallout 2",
+    "link": "https://fallout.fandom.com/wiki/Vault_074"
+  },
+  {
+    "nome": "Vault 077",
+    "anoabertura": "2089",
+    "localizacao": "Pensilvânia, Perto de Pittsburgh",
+    "faccao": "Marionetes Animadas",
+    "objetivo": "Observar o desenvolvimento social de uma única pessoa em isolamento com um suprimento infinito de bonecos de ventriloquia.",
+    "descricao": "Apenas um homem foi selado no Vault 077. Ele tinha milhares de bonecos de ventriloquia como 'companhia'. Ao longo dos anos, ele perdeu a sanidade, acreditando que os bonecos eram a população real do Vault. Após a abertura, ele foi encontrado morto, mas as marionetes (cobertas de radiação) agora se movem e 'falam' com vozes humanas distorcidas, infestando o local.",
+    "titulo": "Fallout 3 (Referência expandida)",
+    "link": "https://fallout.fandom.com/wiki/Vault_077"
+  },
+  {
+    "nome": "Vault 078",
+    "anoabertura": "2087",
+    "localizacao": "San Francisco, Califórnia",
+    "faccao": "Os Imersos (Viciados em VR)",
+    "objetivo": "Manter 80% da população em realidade virtual permanente, com 20% servindo como equipe de manutenção.",
+    "descricao": "O Vault 078 testava a viabilidade de uma sociedade totalmente escapista. Os 80% viviam em um mundo de fantasia virtual, enquanto os 20% mantinham o Vault. O grupo de manutenção, ressentido, sabotou o sistema de suporte de vida da VR, matando instantaneamente a maioria dos Imersos. O Vault agora é assombrado por servidores e corpos em decomposição conectados.",
+    "titulo": "Fallout 2",
+    "link": "https://fallout.fandom.com/wiki/Vault_078"
+  },
+  {
+    "nome": "Vault 079",
+    "anoabertura": "2093",
+    "localizacao": "Novo México, Montanhas",
+    "faccao": "Caminhantes da Mente (Comunidade Telepática)",
+    "objetivo": "Estudar e aprimorar habilidades psiônicas através da exposição a baixas doses de Rad-X e treinamento mental.",
+    "descricao": "Os ocupantes foram selecionados por sua propensão psíquica. O experimento teve sucesso na criação de uma comunidade com comunicação telepática limitada. No entanto, a telepatia constante levou a uma fusão de identidades e perda de individualidade, tornando-os incapazes de interagir com o mundo exterior de forma normal.",
+    "titulo": "Fallout: New Vegas",
+    "link": "https://fallout.fandom.com/wiki/Vault_079"
+  },
+  {
+    "nome": "Vault 080",
+    "anoabertura": "2087",
+    "localizacao": "Alasca, Cordilheira",
+    "faccao": "Tribo do Gelo (Sobreviventes)",
+    "objetivo": "Testar a sobrevivência humana em um ambiente polar, usando energia geotérmica altamente volátil.",
+    "descricao": "O Vault foi construído sobre uma falha geotérmica para aquecimento. O experimento era sobre a resiliência em condições extremas. A fonte de energia era instável e, após 100 anos, explodiu, forçando os sobreviventes a sair para o frio brutal do Alasca, onde formaram uma tribo resistente, dependente de cascas de Rad-Stags para sobreviver.",
+    "titulo": "Fallout (Mencionado)",
+    "link": "https://fallout.fandom.com/wiki/Vault_080"
+  },
+  {
+    "nome": "Vault 082",
+    "anoabertura": "2099",
+    "localizacao": "Carolina do Sul",
+    "faccao": "Zumbis de Controle Mental (Puppet People)",
+    "objetivo": "Introduzir um composto químico que elimina a vontade própria, transformando os moradores em trabalhadores perfeitamente obedientes.",
+    "descricao": "O Overseer e uma equipe de pesquisadores usaram drogas para criar uma força de trabalho dócil. O objetivo era manter um ambiente de produtividade máxima. O Vault prosperou por um tempo, mas o uso prolongado transformou os 'trabalhadores' em cascas vazias e agressivas que só respondem a comandos do Overseer (agora um Ghoul senil).",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_082"
+  },
+  {
+    "nome": "Vault 090",
+    "anoabertura": "2087",
+    "localizacao": "Perto de Boston, Commonwealth",
+    "faccao": "Os Apologistas (Culto da Auto-Culpa)",
+    "objetivo": "Forçar os moradores a confessarem seus 'crimes' pré-guerra em ciclos contínuos de terapia de grupo.",
+    "descricao": "A Vault-Tec acreditava que a culpa era a chave para a ordem social. Os moradores eram forçados a realizar confissões diárias. Se a confissão não fosse 'suficientemente sincera', o racionamento de comida era reduzido. O experimento levou a um ciclo vicioso de autodepreciação e suicídio. Os sobreviventes são masoquistas que se culpam por toda a miséria do mundo.",
+    "titulo": "Fallout 4",
+    "link": "https://fallout.fandom.com/wiki/Vault_090"
+  },
+  {
+    "nome": "Vault 100",
+    "anoabertura": "2089",
+    "localizacao": "Deserto de Gobi, China (Transferência Secreta)",
+    "faccao": "Comunidade Sino-Americana (Os Infiltrados)",
+    "objetivo": "Abrigar cidadãos americanos com ascendência ou laços chineses para fins de infiltração e espionagem pós-Guerra.",
+    "descricao": "O Vault 100 foi um projeto de contingência militar. Foi construído e secretamente transferido para a China antes da Grande Guerra. A população deveria emergir e se infiltrar nas defesas restantes da China. Eles emergiram em um deserto desolado, isolados de ambos os lados, e agora lutam pela sobrevivência em um ambiente hostil e desconhecido.",
+    "titulo": "Fallout (Quadrinhos, Não Canon Oficial)",
+    "link": "https://fallout.fandom.com/wiki/Vault_100"
+  }
+]

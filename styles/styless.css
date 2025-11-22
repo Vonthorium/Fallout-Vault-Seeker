@@ -1,0 +1,29 @@
+
+* {
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none
+
+}
+
+body {
+    background-color: dimgray;
+}
+
+.main-title {
+    color: darkkhaki;
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+}
+
+.search {
+    text-align: center;
+    font-size: 25px;
+    
+}
